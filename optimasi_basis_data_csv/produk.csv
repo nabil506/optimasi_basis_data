@@ -1,0 +1,1001 @@
+id_produk,nama_produk,kategori,harga
+1,Produk 91,Pakaian,22206.29
+2,Produk 92,Rumah Tangga,22285.48
+3,Produk 93,Olahraga,22364.67
+4,Produk 94,Aksesori,22443.86
+5,Produk 95,Perlengkapan Outdoor,22523.05
+6,Produk 96,Elektronik,22602.24
+7,Produk 97,Pakaian,22681.43
+8,Produk 98,Rumah Tangga,22760.62
+9,Produk 99,Olahraga,22839.81
+10,Produk 100,Aksesori,22919.00
+11,Produk 81,Olahraga,21414.39
+12,Produk 82,Aksesori,21493.58
+13,Produk 83,Perlengkapan Outdoor,21572.77
+14,Produk 84,Elektronik,21651.96
+15,Produk 85,Pakaian,21731.15
+16,Produk 86,Rumah Tangga,21810.34
+17,Produk 87,Olahraga,21889.53
+18,Produk 88,Aksesori,21968.72
+19,Produk 89,Perlengkapan Outdoor,22047.91
+20,Produk 90,Elektronik,22127.10
+21,Produk 71,Perlengkapan Outdoor,20622.49
+22,Produk 72,Elektronik,20701.68
+23,Produk 73,Pakaian,20780.87
+24,Produk 74,Rumah Tangga,20860.06
+25,Produk 75,Olahraga,20939.25
+26,Produk 76,Aksesori,21018.44
+27,Produk 77,Perlengkapan Outdoor,21097.63
+28,Produk 78,Elektronik,21176.82
+29,Produk 79,Pakaian,21256.01
+30,Produk 80,Rumah Tangga,21335.20
+31,Produk 61,Pakaian,19830.59
+32,Produk 62,Rumah Tangga,19909.78
+33,Produk 63,Olahraga,19988.97
+34,Produk 64,Aksesori,20068.16
+35,Produk 65,Perlengkapan Outdoor,20147.35
+36,Produk 66,Elektronik,20226.54
+37,Produk 67,Pakaian,20305.73
+38,Produk 68,Rumah Tangga,20384.92
+39,Produk 69,Olahraga,20464.11
+40,Produk 70,Aksesori,20543.30
+41,Produk 51,Olahraga,19038.69
+42,Produk 52,Aksesori,19117.88
+43,Produk 53,Perlengkapan Outdoor,19197.07
+44,Produk 54,Elektronik,19276.26
+45,Produk 55,Pakaian,19355.45
+46,Produk 56,Rumah Tangga,19434.64
+47,Produk 57,Olahraga,19513.83
+48,Produk 58,Aksesori,19593.02
+49,Produk 59,Perlengkapan Outdoor,19672.21
+50,Produk 60,Elektronik,19751.40
+51,Produk 41,Perlengkapan Outdoor,18246.79
+52,Produk 42,Elektronik,18325.98
+53,Produk 43,Pakaian,18405.17
+54,Produk 44,Rumah Tangga,18484.36
+55,Produk 45,Olahraga,18563.55
+56,Produk 46,Aksesori,18642.74
+57,Produk 47,Perlengkapan Outdoor,18721.93
+58,Produk 48,Elektronik,18801.12
+59,Produk 49,Pakaian,18880.31
+60,Produk 50,Rumah Tangga,18959.50
+61,Produk 31,Pakaian,17454.89
+62,Produk 32,Rumah Tangga,17534.08
+63,Produk 33,Olahraga,17613.27
+64,Produk 34,Aksesori,17692.46
+65,Produk 35,Perlengkapan Outdoor,17771.65
+66,Produk 36,Elektronik,17850.84
+67,Produk 37,Pakaian,17930.03
+68,Produk 38,Rumah Tangga,18009.22
+69,Produk 39,Olahraga,18088.41
+70,Produk 40,Aksesori,18167.60
+71,Produk 21,Olahraga,16662.99
+72,Produk 22,Aksesori,16742.18
+73,Produk 23,Perlengkapan Outdoor,16821.37
+74,Produk 24,Elektronik,16900.56
+75,Produk 25,Pakaian,16979.75
+76,Produk 26,Rumah Tangga,17058.94
+77,Produk 27,Olahraga,17138.13
+78,Produk 28,Aksesori,17217.32
+79,Produk 29,Perlengkapan Outdoor,17296.51
+80,Produk 30,Elektronik,17375.70
+81,Produk 11,Perlengkapan Outdoor,15871.09
+82,Produk 12,Elektronik,15950.28
+83,Produk 13,Pakaian,16029.47
+84,Produk 14,Rumah Tangga,16108.66
+85,Produk 15,Olahraga,16187.85
+86,Produk 16,Aksesori,16267.04
+87,Produk 17,Perlengkapan Outdoor,16346.23
+88,Produk 18,Elektronik,16425.42
+89,Produk 19,Pakaian,16504.61
+90,Produk 20,Rumah Tangga,16583.80
+91,Produk 1,Pakaian,15079.19
+92,Produk 2,Rumah Tangga,15158.38
+93,Produk 3,Olahraga,15237.57
+94,Produk 4,Aksesori,15316.76
+95,Produk 5,Perlengkapan Outdoor,15395.95
+96,Produk 6,Elektronik,15475.14
+97,Produk 7,Pakaian,15554.33
+98,Produk 8,Rumah Tangga,15633.52
+99,Produk 9,Olahraga,15712.71
+100,Produk 10,Aksesori,15791.90
+101,Produk 191,Perlengkapan Outdoor,15125.29
+102,Produk 192,Elektronik,15204.48
+103,Produk 193,Pakaian,15283.67
+104,Produk 194,Rumah Tangga,15362.86
+105,Produk 195,Olahraga,15442.05
+106,Produk 196,Aksesori,15521.24
+107,Produk 197,Perlengkapan Outdoor,15600.43
+108,Produk 198,Elektronik,15679.62
+109,Produk 199,Pakaian,15758.81
+110,Produk 200,Rumah Tangga,15838.00
+111,Produk 181,Pakaian,29333.39
+112,Produk 182,Rumah Tangga,29412.58
+113,Produk 183,Olahraga,29491.77
+114,Produk 184,Aksesori,29570.96
+115,Produk 185,Perlengkapan Outdoor,29650.15
+116,Produk 186,Elektronik,29729.34
+117,Produk 187,Pakaian,29808.53
+118,Produk 188,Rumah Tangga,29887.72
+119,Produk 189,Olahraga,29966.91
+120,Produk 190,Aksesori,15046.10
+121,Produk 171,Olahraga,28541.49
+122,Produk 172,Aksesori,28620.68
+123,Produk 173,Perlengkapan Outdoor,28699.87
+124,Produk 174,Elektronik,28779.06
+125,Produk 175,Pakaian,28858.25
+126,Produk 176,Rumah Tangga,28937.44
+127,Produk 177,Olahraga,29016.63
+128,Produk 178,Aksesori,29095.82
+129,Produk 179,Perlengkapan Outdoor,29175.01
+130,Produk 180,Elektronik,29254.20
+131,Produk 161,Perlengkapan Outdoor,27749.59
+132,Produk 162,Elektronik,27828.78
+133,Produk 163,Pakaian,27907.97
+134,Produk 164,Rumah Tangga,27987.16
+135,Produk 165,Olahraga,28066.35
+136,Produk 166,Aksesori,28145.54
+137,Produk 167,Perlengkapan Outdoor,28224.73
+138,Produk 168,Elektronik,28303.92
+139,Produk 169,Pakaian,28383.11
+140,Produk 170,Rumah Tangga,28462.30
+141,Produk 151,Pakaian,26957.69
+142,Produk 152,Rumah Tangga,27036.88
+143,Produk 153,Olahraga,27116.07
+144,Produk 154,Aksesori,27195.26
+145,Produk 155,Perlengkapan Outdoor,27274.45
+146,Produk 156,Elektronik,27353.64
+147,Produk 157,Pakaian,27432.83
+148,Produk 158,Rumah Tangga,27512.02
+149,Produk 159,Olahraga,27591.21
+150,Produk 160,Aksesori,27670.40
+151,Produk 141,Olahraga,26165.79
+152,Produk 142,Aksesori,26244.98
+153,Produk 143,Perlengkapan Outdoor,26324.17
+154,Produk 144,Elektronik,26403.36
+155,Produk 145,Pakaian,26482.55
+156,Produk 146,Rumah Tangga,26561.74
+157,Produk 147,Olahraga,26640.93
+158,Produk 148,Aksesori,26720.12
+159,Produk 149,Perlengkapan Outdoor,26799.31
+160,Produk 150,Elektronik,26878.50
+161,Produk 131,Perlengkapan Outdoor,25373.89
+162,Produk 132,Elektronik,25453.08
+163,Produk 133,Pakaian,25532.27
+164,Produk 134,Rumah Tangga,25611.46
+165,Produk 135,Olahraga,25690.65
+166,Produk 136,Aksesori,25769.84
+167,Produk 137,Perlengkapan Outdoor,25849.03
+168,Produk 138,Elektronik,25928.22
+169,Produk 139,Pakaian,26007.41
+170,Produk 140,Rumah Tangga,26086.60
+171,Produk 121,Pakaian,24581.99
+172,Produk 122,Rumah Tangga,24661.18
+173,Produk 123,Olahraga,24740.37
+174,Produk 124,Aksesori,24819.56
+175,Produk 125,Perlengkapan Outdoor,24898.75
+176,Produk 126,Elektronik,24977.94
+177,Produk 127,Pakaian,25057.13
+178,Produk 128,Rumah Tangga,25136.32
+179,Produk 129,Olahraga,25215.51
+180,Produk 130,Aksesori,25294.70
+181,Produk 111,Olahraga,23790.09
+182,Produk 112,Aksesori,23869.28
+183,Produk 113,Perlengkapan Outdoor,23948.47
+184,Produk 114,Elektronik,24027.66
+185,Produk 115,Pakaian,24106.85
+186,Produk 116,Rumah Tangga,24186.04
+187,Produk 117,Olahraga,24265.23
+188,Produk 118,Aksesori,24344.42
+189,Produk 119,Perlengkapan Outdoor,24423.61
+190,Produk 120,Elektronik,24502.80
+191,Produk 101,Perlengkapan Outdoor,22998.19
+192,Produk 102,Elektronik,23077.38
+193,Produk 103,Pakaian,23156.57
+194,Produk 104,Rumah Tangga,23235.76
+195,Produk 105,Olahraga,23314.95
+196,Produk 106,Aksesori,23394.14
+197,Produk 107,Perlengkapan Outdoor,23473.33
+198,Produk 108,Elektronik,23552.52
+199,Produk 109,Pakaian,23631.71
+200,Produk 110,Rumah Tangga,23710.90
+201,Produk 291,Olahraga,23044.29
+202,Produk 292,Aksesori,23123.48
+203,Produk 293,Perlengkapan Outdoor,23202.67
+204,Produk 294,Elektronik,23281.86
+205,Produk 295,Pakaian,23361.05
+206,Produk 296,Rumah Tangga,23440.24
+207,Produk 297,Olahraga,23519.43
+208,Produk 298,Aksesori,23598.62
+209,Produk 299,Perlengkapan Outdoor,23677.81
+210,Produk 300,Elektronik,23757.00
+211,Produk 281,Perlengkapan Outdoor,22252.39
+212,Produk 282,Elektronik,22331.58
+213,Produk 283,Pakaian,22410.77
+214,Produk 284,Rumah Tangga,22489.96
+215,Produk 285,Olahraga,22569.15
+216,Produk 286,Aksesori,22648.34
+217,Produk 287,Perlengkapan Outdoor,22727.53
+218,Produk 288,Elektronik,22806.72
+219,Produk 289,Pakaian,22885.91
+220,Produk 290,Rumah Tangga,22965.10
+221,Produk 271,Pakaian,21460.49
+222,Produk 272,Rumah Tangga,21539.68
+223,Produk 273,Olahraga,21618.87
+224,Produk 274,Aksesori,21698.06
+225,Produk 275,Perlengkapan Outdoor,21777.25
+226,Produk 276,Elektronik,21856.44
+227,Produk 277,Pakaian,21935.63
+228,Produk 278,Rumah Tangga,22014.82
+229,Produk 279,Olahraga,22094.01
+230,Produk 280,Aksesori,22173.20
+231,Produk 261,Olahraga,20668.59
+232,Produk 262,Aksesori,20747.78
+233,Produk 263,Perlengkapan Outdoor,20826.97
+234,Produk 264,Elektronik,20906.16
+235,Produk 265,Pakaian,20985.35
+236,Produk 266,Rumah Tangga,21064.54
+237,Produk 267,Olahraga,21143.73
+238,Produk 268,Aksesori,21222.92
+239,Produk 269,Perlengkapan Outdoor,21302.11
+240,Produk 270,Elektronik,21381.30
+241,Produk 251,Perlengkapan Outdoor,19876.69
+242,Produk 252,Elektronik,19955.88
+243,Produk 253,Pakaian,20035.07
+244,Produk 254,Rumah Tangga,20114.26
+245,Produk 255,Olahraga,20193.45
+246,Produk 256,Aksesori,20272.64
+247,Produk 257,Perlengkapan Outdoor,20351.83
+248,Produk 258,Elektronik,20431.02
+249,Produk 259,Pakaian,20510.21
+250,Produk 260,Rumah Tangga,20589.40
+251,Produk 241,Pakaian,19084.79
+252,Produk 242,Rumah Tangga,19163.98
+253,Produk 243,Olahraga,19243.17
+254,Produk 244,Aksesori,19322.36
+255,Produk 245,Perlengkapan Outdoor,19401.55
+256,Produk 246,Elektronik,19480.74
+257,Produk 247,Pakaian,19559.93
+258,Produk 248,Rumah Tangga,19639.12
+259,Produk 249,Olahraga,19718.31
+260,Produk 250,Aksesori,19797.50
+261,Produk 231,Olahraga,18292.89
+262,Produk 232,Aksesori,18372.08
+263,Produk 233,Perlengkapan Outdoor,18451.27
+264,Produk 234,Elektronik,18530.46
+265,Produk 235,Pakaian,18609.65
+266,Produk 236,Rumah Tangga,18688.84
+267,Produk 237,Olahraga,18768.03
+268,Produk 238,Aksesori,18847.22
+269,Produk 239,Perlengkapan Outdoor,18926.41
+270,Produk 240,Elektronik,19005.60
+271,Produk 221,Perlengkapan Outdoor,17500.99
+272,Produk 222,Elektronik,17580.18
+273,Produk 223,Pakaian,17659.37
+274,Produk 224,Rumah Tangga,17738.56
+275,Produk 225,Olahraga,17817.75
+276,Produk 226,Aksesori,17896.94
+277,Produk 227,Perlengkapan Outdoor,17976.13
+278,Produk 228,Elektronik,18055.32
+279,Produk 229,Pakaian,18134.51
+280,Produk 230,Rumah Tangga,18213.70
+281,Produk 211,Pakaian,16709.09
+282,Produk 212,Rumah Tangga,16788.28
+283,Produk 213,Olahraga,16867.47
+284,Produk 214,Aksesori,16946.66
+285,Produk 215,Perlengkapan Outdoor,17025.85
+286,Produk 216,Elektronik,17105.04
+287,Produk 217,Pakaian,17184.23
+288,Produk 218,Rumah Tangga,17263.42
+289,Produk 219,Olahraga,17342.61
+290,Produk 220,Aksesori,17421.80
+291,Produk 201,Olahraga,15917.19
+292,Produk 202,Aksesori,15996.38
+293,Produk 203,Perlengkapan Outdoor,16075.57
+294,Produk 204,Elektronik,16154.76
+295,Produk 205,Pakaian,16233.95
+296,Produk 206,Rumah Tangga,16313.14
+297,Produk 207,Olahraga,16392.33
+298,Produk 208,Aksesori,16471.52
+299,Produk 209,Perlengkapan Outdoor,16550.71
+300,Produk 210,Elektronik,16629.90
+301,Produk 391,Pakaian,15963.29
+302,Produk 392,Rumah Tangga,16042.48
+303,Produk 393,Olahraga,16121.67
+304,Produk 394,Aksesori,16200.86
+305,Produk 395,Perlengkapan Outdoor,16280.05
+306,Produk 396,Elektronik,16359.24
+307,Produk 397,Pakaian,16438.43
+308,Produk 398,Rumah Tangga,16517.62
+309,Produk 399,Olahraga,16596.81
+310,Produk 400,Aksesori,16676.00
+311,Produk 381,Olahraga,15171.39
+312,Produk 382,Aksesori,15250.58
+313,Produk 383,Perlengkapan Outdoor,15329.77
+314,Produk 384,Elektronik,15408.96
+315,Produk 385,Pakaian,15488.15
+316,Produk 386,Rumah Tangga,15567.34
+317,Produk 387,Olahraga,15646.53
+318,Produk 388,Aksesori,15725.72
+319,Produk 389,Perlengkapan Outdoor,15804.91
+320,Produk 390,Elektronik,15884.10
+321,Produk 371,Perlengkapan Outdoor,29379.49
+322,Produk 372,Elektronik,29458.68
+323,Produk 373,Pakaian,29537.87
+324,Produk 374,Rumah Tangga,29617.06
+325,Produk 375,Olahraga,29696.25
+326,Produk 376,Aksesori,29775.44
+327,Produk 377,Perlengkapan Outdoor,29854.63
+328,Produk 378,Elektronik,29933.82
+329,Produk 379,Pakaian,15013.01
+330,Produk 380,Rumah Tangga,15092.20
+331,Produk 361,Pakaian,28587.59
+332,Produk 362,Rumah Tangga,28666.78
+333,Produk 363,Olahraga,28745.97
+334,Produk 364,Aksesori,28825.16
+335,Produk 365,Perlengkapan Outdoor,28904.35
+336,Produk 366,Elektronik,28983.54
+337,Produk 367,Pakaian,29062.73
+338,Produk 368,Rumah Tangga,29141.92
+339,Produk 369,Olahraga,29221.11
+340,Produk 370,Aksesori,29300.30
+341,Produk 351,Olahraga,27795.69
+342,Produk 352,Aksesori,27874.88
+343,Produk 353,Perlengkapan Outdoor,27954.07
+344,Produk 354,Elektronik,28033.26
+345,Produk 355,Pakaian,28112.45
+346,Produk 356,Rumah Tangga,28191.64
+347,Produk 357,Olahraga,28270.83
+348,Produk 358,Aksesori,28350.02
+349,Produk 359,Perlengkapan Outdoor,28429.21
+350,Produk 360,Elektronik,28508.40
+351,Produk 341,Perlengkapan Outdoor,27003.79
+352,Produk 342,Elektronik,27082.98
+353,Produk 343,Pakaian,27162.17
+354,Produk 344,Rumah Tangga,27241.36
+355,Produk 345,Olahraga,27320.55
+356,Produk 346,Aksesori,27399.74
+357,Produk 347,Perlengkapan Outdoor,27478.93
+358,Produk 348,Elektronik,27558.12
+359,Produk 349,Pakaian,27637.31
+360,Produk 350,Rumah Tangga,27716.50
+361,Produk 331,Pakaian,26211.89
+362,Produk 332,Rumah Tangga,26291.08
+363,Produk 333,Olahraga,26370.27
+364,Produk 334,Aksesori,26449.46
+365,Produk 335,Perlengkapan Outdoor,26528.65
+366,Produk 336,Elektronik,26607.84
+367,Produk 337,Pakaian,26687.03
+368,Produk 338,Rumah Tangga,26766.22
+369,Produk 339,Olahraga,26845.41
+370,Produk 340,Aksesori,26924.60
+371,Produk 321,Olahraga,25419.99
+372,Produk 322,Aksesori,25499.18
+373,Produk 323,Perlengkapan Outdoor,25578.37
+374,Produk 324,Elektronik,25657.56
+375,Produk 325,Pakaian,25736.75
+376,Produk 326,Rumah Tangga,25815.94
+377,Produk 327,Olahraga,25895.13
+378,Produk 328,Aksesori,25974.32
+379,Produk 329,Perlengkapan Outdoor,26053.51
+380,Produk 330,Elektronik,26132.70
+381,Produk 311,Perlengkapan Outdoor,24628.09
+382,Produk 312,Elektronik,24707.28
+383,Produk 313,Pakaian,24786.47
+384,Produk 314,Rumah Tangga,24865.66
+385,Produk 315,Olahraga,24944.85
+386,Produk 316,Aksesori,25024.04
+387,Produk 317,Perlengkapan Outdoor,25103.23
+388,Produk 318,Elektronik,25182.42
+389,Produk 319,Pakaian,25261.61
+390,Produk 320,Rumah Tangga,25340.80
+391,Produk 301,Pakaian,23836.19
+392,Produk 302,Rumah Tangga,23915.38
+393,Produk 303,Olahraga,23994.57
+394,Produk 304,Aksesori,24073.76
+395,Produk 305,Perlengkapan Outdoor,24152.95
+396,Produk 306,Elektronik,24232.14
+397,Produk 307,Pakaian,24311.33
+398,Produk 308,Rumah Tangga,24390.52
+399,Produk 309,Olahraga,24469.71
+400,Produk 310,Aksesori,24548.90
+401,Produk 491,Perlengkapan Outdoor,23882.29
+402,Produk 492,Elektronik,23961.48
+403,Produk 493,Pakaian,24040.67
+404,Produk 494,Rumah Tangga,24119.86
+405,Produk 495,Olahraga,24199.05
+406,Produk 496,Aksesori,24278.24
+407,Produk 497,Perlengkapan Outdoor,24357.43
+408,Produk 498,Elektronik,24436.62
+409,Produk 499,Pakaian,24515.81
+410,Produk 500,Rumah Tangga,24595.00
+411,Produk 481,Pakaian,23090.39
+412,Produk 482,Rumah Tangga,23169.58
+413,Produk 483,Olahraga,23248.77
+414,Produk 484,Aksesori,23327.96
+415,Produk 485,Perlengkapan Outdoor,23407.15
+416,Produk 486,Elektronik,23486.34
+417,Produk 487,Pakaian,23565.53
+418,Produk 488,Rumah Tangga,23644.72
+419,Produk 489,Olahraga,23723.91
+420,Produk 490,Aksesori,23803.10
+421,Produk 471,Olahraga,22298.49
+422,Produk 472,Aksesori,22377.68
+423,Produk 473,Perlengkapan Outdoor,22456.87
+424,Produk 474,Elektronik,22536.06
+425,Produk 475,Pakaian,22615.25
+426,Produk 476,Rumah Tangga,22694.44
+427,Produk 477,Olahraga,22773.63
+428,Produk 478,Aksesori,22852.82
+429,Produk 479,Perlengkapan Outdoor,22932.01
+430,Produk 480,Elektronik,23011.20
+431,Produk 461,Perlengkapan Outdoor,21506.59
+432,Produk 462,Elektronik,21585.78
+433,Produk 463,Pakaian,21664.97
+434,Produk 464,Rumah Tangga,21744.16
+435,Produk 465,Olahraga,21823.35
+436,Produk 466,Aksesori,21902.54
+437,Produk 467,Perlengkapan Outdoor,21981.73
+438,Produk 468,Elektronik,22060.92
+439,Produk 469,Pakaian,22140.11
+440,Produk 470,Rumah Tangga,22219.30
+441,Produk 451,Pakaian,20714.69
+442,Produk 452,Rumah Tangga,20793.88
+443,Produk 453,Olahraga,20873.07
+444,Produk 454,Aksesori,20952.26
+445,Produk 455,Perlengkapan Outdoor,21031.45
+446,Produk 456,Elektronik,21110.64
+447,Produk 457,Pakaian,21189.83
+448,Produk 458,Rumah Tangga,21269.02
+449,Produk 459,Olahraga,21348.21
+450,Produk 460,Aksesori,21427.40
+451,Produk 441,Olahraga,19922.79
+452,Produk 442,Aksesori,20001.98
+453,Produk 443,Perlengkapan Outdoor,20081.17
+454,Produk 444,Elektronik,20160.36
+455,Produk 445,Pakaian,20239.55
+456,Produk 446,Rumah Tangga,20318.74
+457,Produk 447,Olahraga,20397.93
+458,Produk 448,Aksesori,20477.12
+459,Produk 449,Perlengkapan Outdoor,20556.31
+460,Produk 450,Elektronik,20635.50
+461,Produk 431,Perlengkapan Outdoor,19130.89
+462,Produk 432,Elektronik,19210.08
+463,Produk 433,Pakaian,19289.27
+464,Produk 434,Rumah Tangga,19368.46
+465,Produk 435,Olahraga,19447.65
+466,Produk 436,Aksesori,19526.84
+467,Produk 437,Perlengkapan Outdoor,19606.03
+468,Produk 438,Elektronik,19685.22
+469,Produk 439,Pakaian,19764.41
+470,Produk 440,Rumah Tangga,19843.60
+471,Produk 421,Pakaian,18338.99
+472,Produk 422,Rumah Tangga,18418.18
+473,Produk 423,Olahraga,18497.37
+474,Produk 424,Aksesori,18576.56
+475,Produk 425,Perlengkapan Outdoor,18655.75
+476,Produk 426,Elektronik,18734.94
+477,Produk 427,Pakaian,18814.13
+478,Produk 428,Rumah Tangga,18893.32
+479,Produk 429,Olahraga,18972.51
+480,Produk 430,Aksesori,19051.70
+481,Produk 411,Olahraga,17547.09
+482,Produk 412,Aksesori,17626.28
+483,Produk 413,Perlengkapan Outdoor,17705.47
+484,Produk 414,Elektronik,17784.66
+485,Produk 415,Pakaian,17863.85
+486,Produk 416,Rumah Tangga,17943.04
+487,Produk 417,Olahraga,18022.23
+488,Produk 418,Aksesori,18101.42
+489,Produk 419,Perlengkapan Outdoor,18180.61
+490,Produk 420,Elektronik,18259.80
+491,Produk 401,Perlengkapan Outdoor,16755.19
+492,Produk 402,Elektronik,16834.38
+493,Produk 403,Pakaian,16913.57
+494,Produk 404,Rumah Tangga,16992.76
+495,Produk 405,Olahraga,17071.95
+496,Produk 406,Aksesori,17151.14
+497,Produk 407,Perlengkapan Outdoor,17230.33
+498,Produk 408,Elektronik,17309.52
+499,Produk 409,Pakaian,17388.71
+500,Produk 410,Rumah Tangga,17467.90
+501,Produk 591,Olahraga,16801.29
+502,Produk 592,Aksesori,16880.48
+503,Produk 593,Perlengkapan Outdoor,16959.67
+504,Produk 594,Elektronik,17038.86
+505,Produk 595,Pakaian,17118.05
+506,Produk 596,Rumah Tangga,17197.24
+507,Produk 597,Olahraga,17276.43
+508,Produk 598,Aksesori,17355.62
+509,Produk 599,Perlengkapan Outdoor,17434.81
+510,Produk 600,Elektronik,17514.00
+511,Produk 581,Perlengkapan Outdoor,16009.39
+512,Produk 582,Elektronik,16088.58
+513,Produk 583,Pakaian,16167.77
+514,Produk 584,Rumah Tangga,16246.96
+515,Produk 585,Olahraga,16326.15
+516,Produk 586,Aksesori,16405.34
+517,Produk 587,Perlengkapan Outdoor,16484.53
+518,Produk 588,Elektronik,16563.72
+519,Produk 589,Pakaian,16642.91
+520,Produk 590,Rumah Tangga,16722.10
+521,Produk 571,Pakaian,15217.49
+522,Produk 572,Rumah Tangga,15296.68
+523,Produk 573,Olahraga,15375.87
+524,Produk 574,Aksesori,15455.06
+525,Produk 575,Perlengkapan Outdoor,15534.25
+526,Produk 576,Elektronik,15613.44
+527,Produk 577,Pakaian,15692.63
+528,Produk 578,Rumah Tangga,15771.82
+529,Produk 579,Olahraga,15851.01
+530,Produk 580,Aksesori,15930.20
+531,Produk 561,Olahraga,29425.59
+532,Produk 562,Aksesori,29504.78
+533,Produk 563,Perlengkapan Outdoor,29583.97
+534,Produk 564,Elektronik,29663.16
+535,Produk 565,Pakaian,29742.35
+536,Produk 566,Rumah Tangga,29821.54
+537,Produk 567,Olahraga,29900.73
+538,Produk 568,Aksesori,29979.92
+539,Produk 569,Perlengkapan Outdoor,15059.11
+540,Produk 570,Elektronik,15138.30
+541,Produk 551,Perlengkapan Outdoor,28633.69
+542,Produk 552,Elektronik,28712.88
+543,Produk 553,Pakaian,28792.07
+544,Produk 554,Rumah Tangga,28871.26
+545,Produk 555,Olahraga,28950.45
+546,Produk 556,Aksesori,29029.64
+547,Produk 557,Perlengkapan Outdoor,29108.83
+548,Produk 558,Elektronik,29188.02
+549,Produk 559,Pakaian,29267.21
+550,Produk 560,Rumah Tangga,29346.40
+551,Produk 541,Pakaian,27841.79
+552,Produk 542,Rumah Tangga,27920.98
+553,Produk 543,Olahraga,28000.17
+554,Produk 544,Aksesori,28079.36
+555,Produk 545,Perlengkapan Outdoor,28158.55
+556,Produk 546,Elektronik,28237.74
+557,Produk 547,Pakaian,28316.93
+558,Produk 548,Rumah Tangga,28396.12
+559,Produk 549,Olahraga,28475.31
+560,Produk 550,Aksesori,28554.50
+561,Produk 531,Olahraga,27049.89
+562,Produk 532,Aksesori,27129.08
+563,Produk 533,Perlengkapan Outdoor,27208.27
+564,Produk 534,Elektronik,27287.46
+565,Produk 535,Pakaian,27366.65
+566,Produk 536,Rumah Tangga,27445.84
+567,Produk 537,Olahraga,27525.03
+568,Produk 538,Aksesori,27604.22
+569,Produk 539,Perlengkapan Outdoor,27683.41
+570,Produk 540,Elektronik,27762.60
+571,Produk 521,Perlengkapan Outdoor,26257.99
+572,Produk 522,Elektronik,26337.18
+573,Produk 523,Pakaian,26416.37
+574,Produk 524,Rumah Tangga,26495.56
+575,Produk 525,Olahraga,26574.75
+576,Produk 526,Aksesori,26653.94
+577,Produk 527,Perlengkapan Outdoor,26733.13
+578,Produk 528,Elektronik,26812.32
+579,Produk 529,Pakaian,26891.51
+580,Produk 530,Rumah Tangga,26970.70
+581,Produk 511,Pakaian,25466.09
+582,Produk 512,Rumah Tangga,25545.28
+583,Produk 513,Olahraga,25624.47
+584,Produk 514,Aksesori,25703.66
+585,Produk 515,Perlengkapan Outdoor,25782.85
+586,Produk 516,Elektronik,25862.04
+587,Produk 517,Pakaian,25941.23
+588,Produk 518,Rumah Tangga,26020.42
+589,Produk 519,Olahraga,26099.61
+590,Produk 520,Aksesori,26178.80
+591,Produk 501,Olahraga,24674.19
+592,Produk 502,Aksesori,24753.38
+593,Produk 503,Perlengkapan Outdoor,24832.57
+594,Produk 504,Elektronik,24911.76
+595,Produk 505,Pakaian,24990.95
+596,Produk 506,Rumah Tangga,25070.14
+597,Produk 507,Olahraga,25149.33
+598,Produk 508,Aksesori,25228.52
+599,Produk 509,Perlengkapan Outdoor,25307.71
+600,Produk 510,Elektronik,25386.90
+601,Produk 691,Pakaian,24720.29
+602,Produk 692,Rumah Tangga,24799.48
+603,Produk 693,Olahraga,24878.67
+604,Produk 694,Aksesori,24957.86
+605,Produk 695,Perlengkapan Outdoor,25037.05
+606,Produk 696,Elektronik,25116.24
+607,Produk 697,Pakaian,25195.43
+608,Produk 698,Rumah Tangga,25274.62
+609,Produk 699,Olahraga,25353.81
+610,Produk 700,Aksesori,25433.00
+611,Produk 681,Olahraga,23928.39
+612,Produk 682,Aksesori,24007.58
+613,Produk 683,Perlengkapan Outdoor,24086.77
+614,Produk 684,Elektronik,24165.96
+615,Produk 685,Pakaian,24245.15
+616,Produk 686,Rumah Tangga,24324.34
+617,Produk 687,Olahraga,24403.53
+618,Produk 688,Aksesori,24482.72
+619,Produk 689,Perlengkapan Outdoor,24561.91
+620,Produk 690,Elektronik,24641.10
+621,Produk 671,Perlengkapan Outdoor,23136.49
+622,Produk 672,Elektronik,23215.68
+623,Produk 673,Pakaian,23294.87
+624,Produk 674,Rumah Tangga,23374.06
+625,Produk 675,Olahraga,23453.25
+626,Produk 676,Aksesori,23532.44
+627,Produk 677,Perlengkapan Outdoor,23611.63
+628,Produk 678,Elektronik,23690.82
+629,Produk 679,Pakaian,23770.01
+630,Produk 680,Rumah Tangga,23849.20
+631,Produk 661,Pakaian,22344.59
+632,Produk 662,Rumah Tangga,22423.78
+633,Produk 663,Olahraga,22502.97
+634,Produk 664,Aksesori,22582.16
+635,Produk 665,Perlengkapan Outdoor,22661.35
+636,Produk 666,Elektronik,22740.54
+637,Produk 667,Pakaian,22819.73
+638,Produk 668,Rumah Tangga,22898.92
+639,Produk 669,Olahraga,22978.11
+640,Produk 670,Aksesori,23057.30
+641,Produk 651,Olahraga,21552.69
+642,Produk 652,Aksesori,21631.88
+643,Produk 653,Perlengkapan Outdoor,21711.07
+644,Produk 654,Elektronik,21790.26
+645,Produk 655,Pakaian,21869.45
+646,Produk 656,Rumah Tangga,21948.64
+647,Produk 657,Olahraga,22027.83
+648,Produk 658,Aksesori,22107.02
+649,Produk 659,Perlengkapan Outdoor,22186.21
+650,Produk 660,Elektronik,22265.40
+651,Produk 641,Perlengkapan Outdoor,20760.79
+652,Produk 642,Elektronik,20839.98
+653,Produk 643,Pakaian,20919.17
+654,Produk 644,Rumah Tangga,20998.36
+655,Produk 645,Olahraga,21077.55
+656,Produk 646,Aksesori,21156.74
+657,Produk 647,Perlengkapan Outdoor,21235.93
+658,Produk 648,Elektronik,21315.12
+659,Produk 649,Pakaian,21394.31
+660,Produk 650,Rumah Tangga,21473.50
+661,Produk 631,Pakaian,19968.89
+662,Produk 632,Rumah Tangga,20048.08
+663,Produk 633,Olahraga,20127.27
+664,Produk 634,Aksesori,20206.46
+665,Produk 635,Perlengkapan Outdoor,20285.65
+666,Produk 636,Elektronik,20364.84
+667,Produk 637,Pakaian,20444.03
+668,Produk 638,Rumah Tangga,20523.22
+669,Produk 639,Olahraga,20602.41
+670,Produk 640,Aksesori,20681.60
+671,Produk 621,Olahraga,19176.99
+672,Produk 622,Aksesori,19256.18
+673,Produk 623,Perlengkapan Outdoor,19335.37
+674,Produk 624,Elektronik,19414.56
+675,Produk 625,Pakaian,19493.75
+676,Produk 626,Rumah Tangga,19572.94
+677,Produk 627,Olahraga,19652.13
+678,Produk 628,Aksesori,19731.32
+679,Produk 629,Perlengkapan Outdoor,19810.51
+680,Produk 630,Elektronik,19889.70
+681,Produk 611,Perlengkapan Outdoor,18385.09
+682,Produk 612,Elektronik,18464.28
+683,Produk 613,Pakaian,18543.47
+684,Produk 614,Rumah Tangga,18622.66
+685,Produk 615,Olahraga,18701.85
+686,Produk 616,Aksesori,18781.04
+687,Produk 617,Perlengkapan Outdoor,18860.23
+688,Produk 618,Elektronik,18939.42
+689,Produk 619,Pakaian,19018.61
+690,Produk 620,Rumah Tangga,19097.80
+691,Produk 601,Pakaian,17593.19
+692,Produk 602,Rumah Tangga,17672.38
+693,Produk 603,Olahraga,17751.57
+694,Produk 604,Aksesori,17830.76
+695,Produk 605,Perlengkapan Outdoor,17909.95
+696,Produk 606,Elektronik,17989.14
+697,Produk 607,Pakaian,18068.33
+698,Produk 608,Rumah Tangga,18147.52
+699,Produk 609,Olahraga,18226.71
+700,Produk 610,Aksesori,18305.90
+701,Produk 791,Perlengkapan Outdoor,17639.29
+702,Produk 792,Elektronik,17718.48
+703,Produk 793,Pakaian,17797.67
+704,Produk 794,Rumah Tangga,17876.86
+705,Produk 795,Olahraga,17956.05
+706,Produk 796,Aksesori,18035.24
+707,Produk 797,Perlengkapan Outdoor,18114.43
+708,Produk 798,Elektronik,18193.62
+709,Produk 799,Pakaian,18272.81
+710,Produk 800,Rumah Tangga,18352.00
+711,Produk 781,Pakaian,16847.39
+712,Produk 782,Rumah Tangga,16926.58
+713,Produk 783,Olahraga,17005.77
+714,Produk 784,Aksesori,17084.96
+715,Produk 785,Perlengkapan Outdoor,17164.15
+716,Produk 786,Elektronik,17243.34
+717,Produk 787,Pakaian,17322.53
+718,Produk 788,Rumah Tangga,17401.72
+719,Produk 789,Olahraga,17480.91
+720,Produk 790,Aksesori,17560.10
+721,Produk 771,Olahraga,16055.49
+722,Produk 772,Aksesori,16134.68
+723,Produk 773,Perlengkapan Outdoor,16213.87
+724,Produk 774,Elektronik,16293.06
+725,Produk 775,Pakaian,16372.25
+726,Produk 776,Rumah Tangga,16451.44
+727,Produk 777,Olahraga,16530.63
+728,Produk 778,Aksesori,16609.82
+729,Produk 779,Perlengkapan Outdoor,16689.01
+730,Produk 780,Elektronik,16768.20
+731,Produk 761,Perlengkapan Outdoor,15263.59
+732,Produk 762,Elektronik,15342.78
+733,Produk 763,Pakaian,15421.97
+734,Produk 764,Rumah Tangga,15501.16
+735,Produk 765,Olahraga,15580.35
+736,Produk 766,Aksesori,15659.54
+737,Produk 767,Perlengkapan Outdoor,15738.73
+738,Produk 768,Elektronik,15817.92
+739,Produk 769,Pakaian,15897.11
+740,Produk 770,Rumah Tangga,15976.30
+741,Produk 751,Pakaian,29471.69
+742,Produk 752,Rumah Tangga,29550.88
+743,Produk 753,Olahraga,29630.07
+744,Produk 754,Aksesori,29709.26
+745,Produk 755,Perlengkapan Outdoor,29788.45
+746,Produk 756,Elektronik,29867.64
+747,Produk 757,Pakaian,29946.83
+748,Produk 758,Rumah Tangga,15026.02
+749,Produk 759,Olahraga,15105.21
+750,Produk 760,Aksesori,15184.40
+751,Produk 741,Olahraga,28679.79
+752,Produk 742,Aksesori,28758.98
+753,Produk 743,Perlengkapan Outdoor,28838.17
+754,Produk 744,Elektronik,28917.36
+755,Produk 745,Pakaian,28996.55
+756,Produk 746,Rumah Tangga,29075.74
+757,Produk 747,Olahraga,29154.93
+758,Produk 748,Aksesori,29234.12
+759,Produk 749,Perlengkapan Outdoor,29313.31
+760,Produk 750,Elektronik,29392.50
+761,Produk 731,Perlengkapan Outdoor,27887.89
+762,Produk 732,Elektronik,27967.08
+763,Produk 733,Pakaian,28046.27
+764,Produk 734,Rumah Tangga,28125.46
+765,Produk 735,Olahraga,28204.65
+766,Produk 736,Aksesori,28283.84
+767,Produk 737,Perlengkapan Outdoor,28363.03
+768,Produk 738,Elektronik,28442.22
+769,Produk 739,Pakaian,28521.41
+770,Produk 740,Rumah Tangga,28600.60
+771,Produk 721,Pakaian,27095.99
+772,Produk 722,Rumah Tangga,27175.18
+773,Produk 723,Olahraga,27254.37
+774,Produk 724,Aksesori,27333.56
+775,Produk 725,Perlengkapan Outdoor,27412.75
+776,Produk 726,Elektronik,27491.94
+777,Produk 727,Pakaian,27571.13
+778,Produk 728,Rumah Tangga,27650.32
+779,Produk 729,Olahraga,27729.51
+780,Produk 730,Aksesori,27808.70
+781,Produk 711,Olahraga,26304.09
+782,Produk 712,Aksesori,26383.28
+783,Produk 713,Perlengkapan Outdoor,26462.47
+784,Produk 714,Elektronik,26541.66
+785,Produk 715,Pakaian,26620.85
+786,Produk 716,Rumah Tangga,26700.04
+787,Produk 717,Olahraga,26779.23
+788,Produk 718,Aksesori,26858.42
+789,Produk 719,Perlengkapan Outdoor,26937.61
+790,Produk 720,Elektronik,27016.80
+791,Produk 701,Perlengkapan Outdoor,25512.19
+792,Produk 702,Elektronik,25591.38
+793,Produk 703,Pakaian,25670.57
+794,Produk 704,Rumah Tangga,25749.76
+795,Produk 705,Olahraga,25828.95
+796,Produk 706,Aksesori,25908.14
+797,Produk 707,Perlengkapan Outdoor,25987.33
+798,Produk 708,Elektronik,26066.52
+799,Produk 709,Pakaian,26145.71
+800,Produk 710,Rumah Tangga,26224.90
+801,Produk 891,Olahraga,25558.29
+802,Produk 892,Aksesori,25637.48
+803,Produk 893,Perlengkapan Outdoor,25716.67
+804,Produk 894,Elektronik,25795.86
+805,Produk 895,Pakaian,25875.05
+806,Produk 896,Rumah Tangga,25954.24
+807,Produk 897,Olahraga,26033.43
+808,Produk 898,Aksesori,26112.62
+809,Produk 899,Perlengkapan Outdoor,26191.81
+810,Produk 900,Elektronik,26271.00
+811,Produk 881,Perlengkapan Outdoor,24766.39
+812,Produk 882,Elektronik,24845.58
+813,Produk 883,Pakaian,24924.77
+814,Produk 884,Rumah Tangga,25003.96
+815,Produk 885,Olahraga,25083.15
+816,Produk 886,Aksesori,25162.34
+817,Produk 887,Perlengkapan Outdoor,25241.53
+818,Produk 888,Elektronik,25320.72
+819,Produk 889,Pakaian,25399.91
+820,Produk 890,Rumah Tangga,25479.10
+821,Produk 871,Pakaian,23974.49
+822,Produk 872,Rumah Tangga,24053.68
+823,Produk 873,Olahraga,24132.87
+824,Produk 874,Aksesori,24212.06
+825,Produk 875,Perlengkapan Outdoor,24291.25
+826,Produk 876,Elektronik,24370.44
+827,Produk 877,Pakaian,24449.63
+828,Produk 878,Rumah Tangga,24528.82
+829,Produk 879,Olahraga,24608.01
+830,Produk 880,Aksesori,24687.20
+831,Produk 861,Olahraga,23182.59
+832,Produk 862,Aksesori,23261.78
+833,Produk 863,Perlengkapan Outdoor,23340.97
+834,Produk 864,Elektronik,23420.16
+835,Produk 865,Pakaian,23499.35
+836,Produk 866,Rumah Tangga,23578.54
+837,Produk 867,Olahraga,23657.73
+838,Produk 868,Aksesori,23736.92
+839,Produk 869,Perlengkapan Outdoor,23816.11
+840,Produk 870,Elektronik,23895.30
+841,Produk 851,Perlengkapan Outdoor,22390.69
+842,Produk 852,Elektronik,22469.88
+843,Produk 853,Pakaian,22549.07
+844,Produk 854,Rumah Tangga,22628.26
+845,Produk 855,Olahraga,22707.45
+846,Produk 856,Aksesori,22786.64
+847,Produk 857,Perlengkapan Outdoor,22865.83
+848,Produk 858,Elektronik,22945.02
+849,Produk 859,Pakaian,23024.21
+850,Produk 860,Rumah Tangga,23103.40
+851,Produk 841,Pakaian,21598.79
+852,Produk 842,Rumah Tangga,21677.98
+853,Produk 843,Olahraga,21757.17
+854,Produk 844,Aksesori,21836.36
+855,Produk 845,Perlengkapan Outdoor,21915.55
+856,Produk 846,Elektronik,21994.74
+857,Produk 847,Pakaian,22073.93
+858,Produk 848,Rumah Tangga,22153.12
+859,Produk 849,Olahraga,22232.31
+860,Produk 850,Aksesori,22311.50
+861,Produk 831,Olahraga,20806.89
+862,Produk 832,Aksesori,20886.08
+863,Produk 833,Perlengkapan Outdoor,20965.27
+864,Produk 834,Elektronik,21044.46
+865,Produk 835,Pakaian,21123.65
+866,Produk 836,Rumah Tangga,21202.84
+867,Produk 837,Olahraga,21282.03
+868,Produk 838,Aksesori,21361.22
+869,Produk 839,Perlengkapan Outdoor,21440.41
+870,Produk 840,Elektronik,21519.60
+871,Produk 821,Perlengkapan Outdoor,20014.99
+872,Produk 822,Elektronik,20094.18
+873,Produk 823,Pakaian,20173.37
+874,Produk 824,Rumah Tangga,20252.56
+875,Produk 825,Olahraga,20331.75
+876,Produk 826,Aksesori,20410.94
+877,Produk 827,Perlengkapan Outdoor,20490.13
+878,Produk 828,Elektronik,20569.32
+879,Produk 829,Pakaian,20648.51
+880,Produk 830,Rumah Tangga,20727.70
+881,Produk 811,Pakaian,19223.09
+882,Produk 812,Rumah Tangga,19302.28
+883,Produk 813,Olahraga,19381.47
+884,Produk 814,Aksesori,19460.66
+885,Produk 815,Perlengkapan Outdoor,19539.85
+886,Produk 816,Elektronik,19619.04
+887,Produk 817,Pakaian,19698.23
+888,Produk 818,Rumah Tangga,19777.42
+889,Produk 819,Olahraga,19856.61
+890,Produk 820,Aksesori,19935.80
+891,Produk 801,Olahraga,18431.19
+892,Produk 802,Aksesori,18510.38
+893,Produk 803,Perlengkapan Outdoor,18589.57
+894,Produk 804,Elektronik,18668.76
+895,Produk 805,Pakaian,18747.95
+896,Produk 806,Rumah Tangga,18827.14
+897,Produk 807,Olahraga,18906.33
+898,Produk 808,Aksesori,18985.52
+899,Produk 809,Perlengkapan Outdoor,19064.71
+900,Produk 810,Elektronik,19143.90
+901,Produk 991,Pakaian,18477.29
+902,Produk 992,Rumah Tangga,18556.48
+903,Produk 993,Olahraga,18635.67
+904,Produk 994,Aksesori,18714.86
+905,Produk 995,Perlengkapan Outdoor,18794.05
+906,Produk 996,Elektronik,18873.24
+907,Produk 997,Pakaian,18952.43
+908,Produk 998,Rumah Tangga,19031.62
+909,Produk 999,Olahraga,19110.81
+910,Produk 1000,Aksesori,19190.00
+911,Produk 981,Olahraga,17685.39
+912,Produk 982,Aksesori,17764.58
+913,Produk 983,Perlengkapan Outdoor,17843.77
+914,Produk 984,Elektronik,17922.96
+915,Produk 985,Pakaian,18002.15
+916,Produk 986,Rumah Tangga,18081.34
+917,Produk 987,Olahraga,18160.53
+918,Produk 988,Aksesori,18239.72
+919,Produk 989,Perlengkapan Outdoor,18318.91
+920,Produk 990,Elektronik,18398.10
+921,Produk 971,Perlengkapan Outdoor,16893.49
+922,Produk 972,Elektronik,16972.68
+923,Produk 973,Pakaian,17051.87
+924,Produk 974,Rumah Tangga,17131.06
+925,Produk 975,Olahraga,17210.25
+926,Produk 976,Aksesori,17289.44
+927,Produk 977,Perlengkapan Outdoor,17368.63
+928,Produk 978,Elektronik,17447.82
+929,Produk 979,Pakaian,17527.01
+930,Produk 980,Rumah Tangga,17606.20
+931,Produk 961,Pakaian,16101.59
+932,Produk 962,Rumah Tangga,16180.78
+933,Produk 963,Olahraga,16259.97
+934,Produk 964,Aksesori,16339.16
+935,Produk 965,Perlengkapan Outdoor,16418.35
+936,Produk 966,Elektronik,16497.54
+937,Produk 967,Pakaian,16576.73
+938,Produk 968,Rumah Tangga,16655.92
+939,Produk 969,Olahraga,16735.11
+940,Produk 970,Aksesori,16814.30
+941,Produk 951,Olahraga,15309.69
+942,Produk 952,Aksesori,15388.88
+943,Produk 953,Perlengkapan Outdoor,15468.07
+944,Produk 954,Elektronik,15547.26
+945,Produk 955,Pakaian,15626.45
+946,Produk 956,Rumah Tangga,15705.64
+947,Produk 957,Olahraga,15784.83
+948,Produk 958,Aksesori,15864.02
+949,Produk 959,Perlengkapan Outdoor,15943.21
+950,Produk 960,Elektronik,16022.40
+951,Produk 941,Perlengkapan Outdoor,29517.79
+952,Produk 942,Elektronik,29596.98
+953,Produk 943,Pakaian,29676.17
+954,Produk 944,Rumah Tangga,29755.36
+955,Produk 945,Olahraga,29834.55
+956,Produk 946,Aksesori,29913.74
+957,Produk 947,Perlengkapan Outdoor,29992.93
+958,Produk 948,Elektronik,15072.12
+959,Produk 949,Pakaian,15151.31
+960,Produk 950,Rumah Tangga,15230.50
+961,Produk 931,Pakaian,28725.89
+962,Produk 932,Rumah Tangga,28805.08
+963,Produk 933,Olahraga,28884.27
+964,Produk 934,Aksesori,28963.46
+965,Produk 935,Perlengkapan Outdoor,29042.65
+966,Produk 936,Elektronik,29121.84
+967,Produk 937,Pakaian,29201.03
+968,Produk 938,Rumah Tangga,29280.22
+969,Produk 939,Olahraga,29359.41
+970,Produk 940,Aksesori,29438.60
+971,Produk 921,Olahraga,27933.99
+972,Produk 922,Aksesori,28013.18
+973,Produk 923,Perlengkapan Outdoor,28092.37
+974,Produk 924,Elektronik,28171.56
+975,Produk 925,Pakaian,28250.75
+976,Produk 926,Rumah Tangga,28329.94
+977,Produk 927,Olahraga,28409.13
+978,Produk 928,Aksesori,28488.32
+979,Produk 929,Perlengkapan Outdoor,28567.51
+980,Produk 930,Elektronik,28646.70
+981,Produk 911,Perlengkapan Outdoor,27142.09
+982,Produk 912,Elektronik,27221.28
+983,Produk 913,Pakaian,27300.47
+984,Produk 914,Rumah Tangga,27379.66
+985,Produk 915,Olahraga,27458.85
+986,Produk 916,Aksesori,27538.04
+987,Produk 917,Perlengkapan Outdoor,27617.23
+988,Produk 918,Elektronik,27696.42
+989,Produk 919,Pakaian,27775.61
+990,Produk 920,Rumah Tangga,27854.80
+991,Produk 901,Pakaian,26350.19
+992,Produk 902,Rumah Tangga,26429.38
+993,Produk 903,Olahraga,26508.57
+994,Produk 904,Aksesori,26587.76
+995,Produk 905,Perlengkapan Outdoor,26666.95
+996,Produk 906,Elektronik,26746.14
+997,Produk 907,Pakaian,26825.33
+998,Produk 908,Rumah Tangga,26904.52
+999,Produk 909,Olahraga,26983.71
+1000,Produk 910,Aksesori,27062.90
